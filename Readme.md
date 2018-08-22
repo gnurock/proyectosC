@@ -1,1 +1,1 @@
-alogirtmo divers en c y matlab 
+Agoritmos desarrolldos en c y matlab para la maeteria de cálculo y computo numérico
