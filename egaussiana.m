@@ -1,5 +1,5 @@
 % Grupo: C-4
-% Profesor: José Octavio Buenos Aires
+% Profesor:Dr. JosÃ© Octavio Buenos Aires
 % Metodo:Gauss 
 % Alumno:Fernandez Robles Christian
 
