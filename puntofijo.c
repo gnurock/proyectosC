@@ -2,6 +2,8 @@
 Algoritmo de punto_fijo
 Christian Fernandez Robles
 Computacin tercer semestre
+Profesor: Dr. Valdez Peña Sergio Ivván
+Materia: Ecuaciones Direferenciales
  * 
  * 
  */
